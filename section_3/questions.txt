@@ -1,0 +1,43 @@
+Goals
+
+OOP with Ruby
+
+Instructions
+Complete units 9,10. After completion, pair with your mentor to review the code you’ve written. 
+
+ 
+
+Mentor’s notes
+
+See the code written and provide feedback
+
+Q) What do you like (or dislike) about Ruby?
+
+Any concepts that you feel are tough to grasp?
+
+ 
+
+Exercise:
+
+ 
+
+Suppose there are two classes A and B can we have a class C which is defined as below
+class C < A; end
+class C<B; end 
+Explain the reason as well ?
+
+Explain the difference between instance variables and class variables with syntax.
+
+What does super keyword do in Ruby ?
+
+What does attr_reader and attr_writer do in Ruby (To which form ruby translates them)?
+
+Differentiate between include, extend and require ?
+
+ 
+
+create a directory 'section_3’ in ruby_intro.
+
+ 
+
+submit your answers in a single text file (answers.txt) in section_3 and push to your git repo.
