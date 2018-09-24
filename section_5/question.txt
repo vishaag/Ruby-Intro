@@ -1,0 +1,22 @@
+Goals
+
+OOPs practice
+
+Instructions
+Implement a Ruby class ‘Stack’ that encapsulates a stack. The initializer must take an integer argument that defines the size of the stack. Implement the following methods
+
+push - Pushes an element to the top the stack. Returns nil if the stack is already full
+
+top - Returns the top element of the stack. Returns nil if the stack is empty
+
+pop - Returns and removes the top element of the stack. Returns nil if the stack is empty
+
+size - Returns the size of the stack
+
+
+
+
+Exercise Directory: section_5
+
+
+Make sure you are using a .ruby-version file in your exercise directory. Provide the running instructions in the README file. Please ensure the mentor can follow your running instructions by cloning your repository separately and following the README instructions provided by you.
