@@ -1,0 +1,10 @@
+1. SuperClass mismatch for class B. Ruby wouldn’t allow this case since it doesn’t support multiple inheritance.
+
+3. If super is called in a method in a class, it calls the same method in the parent class. If it doesn’t find it in the immediate parent, it moves up in the parent chain until it finds it.
+
+4. attr_reader takes a symbol and makes that variable accessible by Receivers. Same with attr_writer but it also makes is writable.
+
+5. Include makes available the methods and attributes of a module to a class instance in which it is used in.
+Extend does the same but it makes available to the Class and not the instance.
+Require is used to import libraries (whole files) and prevents loading the same libraries twice. Usually imported in a whole ruby file and not in classes.
+

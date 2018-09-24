@@ -1,0 +1,11 @@
+1. First char of string (or) ascii if numeric
+2. 15, 125
+3. Can only put single characters. puts adds a newline at the end of the string whereas print doesn’t.
+
+4. Capitalize makes the first character of the string capital. Upcase makes the whole string into capital case
+5. Gets adds a newline to the input string, calling .chomp it it removes the newline.
+6. For loop with x…y runs from x to y-1. For in x..y runs from x to y.
+7. reverse method returns the reversed value that can be assigned to another variable. .reverse! replaces the value itself with the reversed value, ie: it changes the state of the object.
+8. Hash has a key value pair, Array doesn’t.
+Hash can be accessed by it’s key, Array can be accessed by it’s index
+
