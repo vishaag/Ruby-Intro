@@ -1,0 +1,65 @@
+Combining Questions in section 7 and 8 as they are overlapping.
+
+Goals
+
+Understand the concepts - Rubygems and Bundler
+
+Instructions
+Go through the screencast - https://www.youtube.com/watch?v=ZE-8rqPI3B4 
+
+ 
+
+Exercise
+
+In your own words explain What is Ruby Gem? and What is Bundler?
+
+Create a Gemfile under ‘section_7’ that specifies the gems - httparty and rspec. 
+
+Install bundler.
+
+Inspect the Gemfile.lock you have created after running ‘bundle install’. 
+
+Commit the Gemfile and Gemfile.lock
+
+ 
+
+Exercise Directory: section_7
+
+Goals
+
+OOPs practice
+
+Instructions
+Implement a Ruby class ‘SearchResults’ that encapsulates SearchResults from Google. Usage of the class must be as follows:
+
+ 
+
+SearchResults sr = SearchResults.new(:query => ‘ruby oops’)
+
+ 
+
+sr.size # returns the number of results after scraping the first google search results page
+
+sr.results # returns an array of SearchResult (another class) that encapsulates a singResult
+
+ 
+
+sr.results[0].title # Returns the title of the result
+
+sr.results[0].desc # Retuns the description of the result
+
+sr.results[0].url # Returns the url of the result
+
+ 
+
+Note: Understand and use the gem ‘httparty’ and ‘nokogiri’ to fetch the HTML content of the pages from the internet and parse the HTML files respectively.
+
+ 
+
+httpparty - https://github.com/jnunemaker/httparty
+
+nokogiri - https://www.youtube.com/watch?v=TIEGAvxd0lc
+
+ 
+
+Exercise Directory: section_8
