@@ -1,0 +1,37 @@
+Goals
+
+Understand OOP concepts - instance and class methods
+
+Instructions
+Go through the screencast - https://www.youtube.com/watch?v=i4uiyWA8eFk to understand Ruby class and instance methods
+
+ 
+
+Exercise
+
+Create a Ruby class Player which has the following instance methods
+
+name - to get a name
+
+name= - to set a name
+
+ 
+
+Add the class method ‘team’ that returns the string ‘Team India’. After defining the class, create a few instances and call the instance and class methods.
+
+ 
+
+Setup Instructions
+
+cd ruby_intro
+
+Create a directory section_4 and cd into it
+
+Create the file .ruby-version with ‘ruby-2.2.1@ruby_intro’ in it
+
+ 
+
+Exercise Directory: section_4
+
+
+Make sure you are using a .ruby-version file in your exercise directory. Provide the running instructions in the README file. Please ensure the mentor can follow your running instructions by cloning your repository separately and following the README instructions provided by you.

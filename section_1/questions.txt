@@ -1,0 +1,50 @@
+Goals
+
+Basic elements and simple logic composition
+
+Instructions
+Register as a (free) user on codeacademy.com. Start working on the ruby course (https://www.codecademy.com/learn/ruby) and complete units 1,2,3 and 4. After completion, pair with your mentor to review the code you’ve written. 
+
+ 
+
+Go through this link to learn about different types of iterators:
+
+http://matthewcarriere.com/2008/06/23/using-select-reject-collect-inject-and-detect/
+
+Mentor’s notes
+
+See the code written and provide feedback
+
+Q) What do you like (or dislike) about Ruby?
+
+Any concepts that you feel are tough to grasp?
+
+ 
+
+Exercise
+
+What is the output of putc “Beautiful Code” and putc 321 
+
+What is the output of puts 5*3 and puts 5**3 ?
+
+What are the Disadvantage of putc method (Refer: http://ruby-doc.org/core-2.1.3/IO.html#method-i-putc)
+
+What is the difference between print(“I am”, “ a”“ Web”, “ Developer”) and puts(“I am”, “ a”“ Web”, “ Developer”)
+
+What is the difference between “beautiful code”.capitalize and “beautiful code”.upcase 
+
+What is the Difference between gets and gets.chomp
+
+What is the Difference between … and .. in for loop
+
+What is the difference between “.reverse” and “.reverse!”
+
+What are the differences between Array and Hash
+
+ 
+
+Create a directory ‘ruby_intro’. cd into it
+
+create a directory ‘section_1’.
+
+submit your answers in a single text file (answers.txt) in section_1 and push to your git repo.

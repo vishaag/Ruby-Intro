@@ -1,0 +1,18 @@
+Goals
+
+Understand RVM and manage multiple ruby versions
+
+Instructions
+Go through the screencast - https://www.youtube.com/watch?v=cQVb7fHFjSM and understand the basics of RVM
+
+ 
+
+Exercise
+
+ 
+
+Install RVM on your system by following the instructions on https://rvm.io/
+
+Through RVM, install the following ruby versions 1.9.3 and 2.1.5
+
+Create a directory named ‘module_6’. Create 2 sub directories ‘project-1.9.3’ and ‘project-2.1.5’. Setup each directory to use the right ruby version using .rvmrc
