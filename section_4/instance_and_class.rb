@@ -16,11 +16,6 @@ class Player
 	end
 end
 
-{
-	ldjfndf
-}
-
-
 p1 = Player.new
 puts p1.name
 p1.name=("Messi")
